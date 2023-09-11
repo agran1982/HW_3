@@ -1,6 +1,8 @@
 package oop2;
 
-public class FirstMain {
+import java.sql.SQLOutput;
+
+public class Main {
     public static void main(String[] args) {
         SmallCar smallCar = new SmallCar();
         System.out.println("\n" + smallCar.doorsQuantity());
@@ -24,5 +26,6 @@ public class FirstMain {
         System.out.println(cars.bodyType());
 
     }
+
 
 }

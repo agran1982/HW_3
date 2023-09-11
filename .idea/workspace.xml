@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f5cb27a-caa0-4dde-a4f0-3313e044b5a6" name="Changes" comment="" />
+    <list default="true" id="7f5cb27a-caa0-4dde-a4f0-3313e044b5a6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop2/Abstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop2/Abstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop2/AbstractMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop2/AbstractMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop2/BigCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop2/BigCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop2/CarExtendsAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop2/CarExtendsAbstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop2/Cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop2/Cars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop2/SmallCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop2/SmallCar.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,25 +25,97 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2V3rpltn43Hc9uhCnSCCaKJZ8l4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.oop2.Main">
+    <configuration name="AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop2.AbstractMain" />
+      <module name="HW_3.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop2.FirstMain" />
+      <module name="HW_3.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="HW_3.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop2.Main" />
+      <module name="HW_3.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AbstractMain" />
+        <item itemvalue="Application.oop2.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FirstMain" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
